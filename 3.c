@@ -6,9 +6,6 @@ int main()
     scanf("%d\n%d", &a, &b);
   	#include <stdio.h>
 
- 
-    
-
     scanf("%d %d", &a, &b);
 
     for (int i = a; i <= b; i++) {
